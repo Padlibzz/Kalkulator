@@ -1,9 +1,0 @@
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/Kalkulator.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/edit_cache.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/rebuild_cache.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/list_install_components.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/install.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/install/local.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/install/strip.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/Kalkulator_autogen_timestamp_deps.dir
-/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/CMakeFiles/Kalkulator_autogen.dir
