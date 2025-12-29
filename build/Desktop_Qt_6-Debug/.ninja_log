@@ -1,0 +1,27 @@
+# ninja log v5
+4	56	1766663136726600556	Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+4	56	1766663136726600556	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+4	56	1766663136726600556	Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+4	56	1766663136726600556	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+916	7100	1766662341300712131	CMakeFiles/Kalkulator.dir/Kalkulator_autogen/mocs_compilation.cpp.o	c5945af608a08209
+57	2287	1766663138957623428	CMakeFiles/Kalkulator.dir/mainwindow.cpp.o	8568209e7f90ecd0
+917	7476	1766662341678715669	CMakeFiles/Kalkulator.dir/main.cpp.o	189e740c8de2a2fc
+2287	2752	1766663139420628175	Kalkulator	51e5ec798cb08e53
+4	51	1766663177608020028	Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+4	51	1766663177608020028	Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+4	51	1766663177608020028	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+4	51	1766663177608020028	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+52	2336	1766663179892043485	CMakeFiles/Kalkulator.dir/mainwindow.cpp.o	8568209e7f90ecd0
+2336	2805	1766663180360048292	Kalkulator	51e5ec798cb08e53
+4	54	1766663292317200691	Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+4	54	1766663292317200691	Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+4	54	1766663292317200691	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+4	54	1766663292317200691	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+56	2414	1766663294675225012	CMakeFiles/Kalkulator.dir/mainwindow.cpp.o	8568209e7f90ecd0
+2414	2878	1766663295137229778	Kalkulator	51e5ec798cb08e53
+8	90	1766663508449436873	Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+8	90	1766663508449436873	Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+8	90	1766663508449436873	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/timestamp	48dc5f8f5da6637a
+8	90	1766663508449436873	/home/padli/JOB/Project/Kalkulator/build/Desktop_Qt_6-Debug/Kalkulator_autogen/mocs_compilation.cpp	48dc5f8f5da6637a
+91	3977	1766663512337477211	CMakeFiles/Kalkulator.dir/mainwindow.cpp.o	8568209e7f90ecd0
+3977	4478	1766663512835482378	Kalkulator	51e5ec798cb08e53
